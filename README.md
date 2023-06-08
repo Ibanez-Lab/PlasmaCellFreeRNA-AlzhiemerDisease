@@ -4,4 +4,11 @@ There is a need of affordable, scalable, and specific blood-based biomarkers for
 
 Data repository: NIAGADS NG00142
 
-Describe the sections and code provided
+Code used for data processing and analyses is provided in the following files:
+
+1- Differential Expression Analyses: XXX.txt
+2- Dataset Harmonization: XXX.txt
+3- Data Modeling: XXX.txt
+4- Alzheimer's Disease Continium Evaluation: XXX.txt
+5- ATN Status Evaluation: XXX.txt
+6- Specificity Analyses: XXX.txt
