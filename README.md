@@ -6,8 +6,7 @@ Data repository: NIAGADS NG00142
 
 Code used for data processing and analyses is provided in the following files:
 
-0- RNAseq pipeline and Data Generation (RNAscript.sh, k99presimnotion.R, k99psstatusnotion.R, k99cdr05notionrlog.R, k99cdr1notionrlog.R, expansionpresimnotionrlog.R, expansioncdr05notionrlog.R, expansioncdr1notionrlog.R and controls&timefreezer.R)  \
-1- Differential Expression Analyses (deg.R)  \
+1- Differential Expression Analyses (DE_analyses.R)  \
 2- Feature selection and Data Modeling (feature_selection_data_modeling.R) \
 3- Alzheimer's Disease Continium Evaluation (ad_continium.Rmd, ADcontinuum.R) \
 4- ATN Status Evaluation (ATNstatus_evaluation.R) \
