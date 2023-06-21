@@ -10,4 +10,4 @@ Code used for data processing and analyses is provided in the following files:
 2- Feature selection and Data Modeling (feature_selection_data_modeling.R) \
 3- Alzheimer's Disease Continuum Evaluation (ADcontinuum.R) \
 4- ATN Status Evaluation (ATNstatus_evaluation.R) \
-5- Specificity Analyses (specificity.Rmd, specificity.analyses.R)
+5- Specificity Analyses (specificity.analyses.R)
