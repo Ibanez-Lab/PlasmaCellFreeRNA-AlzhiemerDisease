@@ -12,7 +12,7 @@ myPalette <- c("#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00",
 
 ## load phenotype file containing AT_Status infor
 library("readxl")
-pheno <- as.data.frame(read_excel("CSF-Values_Paper_ATN.xlsx"))
+pheno <- as.data.frame(read_excel("ATN.status.xlsx"))
 dim(pheno) # 72 21
 table(pheno$ATStatus...17)
 ###########################
